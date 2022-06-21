@@ -1,14 +1,14 @@
 import Header from './components/header';
 import Footer from './components/footer';
-import Series from './pages/series/Series';
-import Movies from './pages/movies/Movies';
+import Routes from './Routes';
 
 function App() {
   return (
     <div className='min-h-screen flex flex-col relative'>
       <Header/>
-      <Series  /> 
-      {/* <Movies  /> */}
+      <div className='pt-16 pb-48'>
+        <Routes />
+      </div>
       <Footer />
     </div>
   );
