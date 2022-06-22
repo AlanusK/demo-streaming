@@ -35,9 +35,10 @@ This project follows the architecture design of enclosing each component and pag
 
 ### notes
 
-- The deployable solution will be contained inside `build` folder instead of `dist` folder. This is caused by the fact that this project
-is scaffolded by CREACT-REACT-APP, should I have got more time, I should have put it in the `dist` folder.
+- The deployable solution will be contained inside `build` folder instead of `dist` folder. This is due to the fact that this project is scaffolded by CREACT-REACT-APP, should I have got more time, I should have put it in the `dist` folder.
 
 - Only `Header` component has been tested, If get more time I will add more tests for each component.
+
+- If I were allocated more time I will improve responsiveness of the app especially the `Header` component, add the logic to display the first 21 data entries, fix all warning error appearing at the console, refactor some codes into components and add more tests for each component.
 
 - Please visit [nipale](https://www.nipale.com/) one of the react project I am very proud of.
