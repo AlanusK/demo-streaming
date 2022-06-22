@@ -1,7 +1,6 @@
 # ELLIPSIS_JS_CHALLENGE
 
-<!-- This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). -->
-A web app to show series and movies
+A web app that shows popular series and movies.
 
 ## Available Scripts
 
@@ -32,8 +31,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### architecture
 
-This project follows the architecture design of enclosing each component and page in its own folder with everything needed such as
-styles and tests
+This project follows the architecture design of enclosing each component and page in its own folder with everything needed such as styles and tests
 
 ### notes
 
@@ -41,3 +39,5 @@ styles and tests
 is scaffolded by CREACT-REACT-APP, should I have got more time, I should have put it in the `dist` folder.
 
 - Only `Header` component has been tested, If get more time I will add more tests for each component.
+
+- Please visit [nipale](https://www.nipale.com/) one of the react project I am very proud of.
