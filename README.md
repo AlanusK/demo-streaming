@@ -41,4 +41,6 @@ This project follows the architecture design of enclosing each component and pag
 
 - If I were allocated more time I will improve responsiveness of the app especially the `Header` component, add the logic to display the first 21 data entries, fix all warning error appearing at the console, refactor some codes into components and add more tests for each component.
 
+- You will find all of my work in the `develop` branch
+
 - Please visit [nipale](https://www.nipale.com/) one of the react project I am very proud of.
