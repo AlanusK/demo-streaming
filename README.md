@@ -1,4 +1,4 @@
-# ELLIPSIS_JS_CHALLENGE
+# DEMO-STREAMING
 
 A web app that shows popular series and movies.
 
